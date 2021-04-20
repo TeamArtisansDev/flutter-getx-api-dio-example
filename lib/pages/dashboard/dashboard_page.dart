@@ -55,7 +55,7 @@ class DashboardPage extends StatelessWidget {
     );
   }
 
-  _bottomNavigationBarItem({IconData icon, String label}) {
+  _bottomNavigationBarItem({IconData? icon, String? label}) {
     return BottomNavigationBarItem(
       icon: Icon(icon),
       label: label,
