@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:getx_app/models/post.dart';
+import 'package:getx_app/pages/posts/models/post.dart';
 import 'package:getx_app/pages/posts/posts_provider.dart';
 
 class PostsController extends GetxController {
