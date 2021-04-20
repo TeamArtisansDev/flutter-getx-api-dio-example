@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:getx_app/models/post.dart';
+import 'package:getx_app/pages/posts/models/post.dart';
 
 class PostsListItem extends StatelessWidget {
   final Post? post;
